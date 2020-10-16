@@ -1,0 +1,16 @@
+.order-container{
+    padding: 40px 48em 0px 100px;
+    background: #F4F7FC;
+    height: 100vh;
+}
+input[type="file"] {
+    display: none;
+}
+.custom-file-upload {
+    border: 1px solid #129B52;
+    display: inline-block;
+    padding: 6px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    background: #DEFFED;
+}

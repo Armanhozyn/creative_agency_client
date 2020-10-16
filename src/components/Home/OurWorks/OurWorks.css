@@ -1,0 +1,14 @@
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span{
+    background: #FBD062 !important;
+}
+.owl-theme .owl-dots .owl-dot span{
+    width: 1em !important;
+    height: 1em !important;
+}
+.owl-theme .owl-dots .owl-dot{
+    padding-top: 20px !important;
+}
+.ourWorks-container {
+    background: #111430;
+    padding: 80px;
+}

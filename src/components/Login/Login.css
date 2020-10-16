@@ -1,0 +1,27 @@
+body{
+    background: #FFFFFF;
+  }
+
+  .login-container{
+      width : 800px;
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+  }
+  .login-container img{
+      margin : 0 auto;
+  }
+  
+  .log__in{
+    padding: 100px;
+    background: #FFFFFF;
+  }
+  
+.log__in button{
+    background: #FFFFFF;
+    border: 1px solid #C7C7C7;
+    border-radius: 25px;
+    padding: 15px 75px;
+    font-weight: bold;
+    }
+  

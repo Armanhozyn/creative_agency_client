@@ -1,0 +1,14 @@
+.servicelist-container{
+    padding: 40px 20em 0px 100px;
+    background: #F4F7FC;
+    height: 100vh;
+}
+.badge-service-danger{
+    background: #FFE3E3;
+    color: #FF4A4A;
+} 
+.service_card{
+    background: #fff;
+    padding: 30px;
+    border-radius: 5px
+}
